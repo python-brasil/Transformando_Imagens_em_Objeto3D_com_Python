@@ -7,7 +7,7 @@ No final, a imagem é exibida em 3D, com cada pixel representado por um ponto tr
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/python-brasil/Transformando_Imagens_em_Objeto3D_com_Python.git
 ```
 Recomandamos criar uma venv antes de instalar as dependências
 ```bash
