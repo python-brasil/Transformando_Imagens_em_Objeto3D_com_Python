@@ -31,7 +31,7 @@ em Linux
 
 ## Screenshot
 
-![Screenshot](https://github.com/python-brasil/Transformando_Imagens_em_Objeto3D_com_Python/assets/126124866/ab7acd6d-91f5-4f6d-9100-e76f1cd0b9dd)
+![ezgif-5-82285111c0](https://github.com/python-brasil/Transformando_Imagens_em_Objeto3D_com_Python/assets/126124866/9e76fcab-56c3-4e06-8bcf-0e7c86e64ad6)
 
 ## Infos de commits
 
