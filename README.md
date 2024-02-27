@@ -1,8 +1,8 @@
-# Transformando_Imagens_em_Objeto3D_com_Python
+# Transformando Imagens em Objeto3D com Python
 Este projeto tem como objetivo carregar uma imagem em formato PNG, convertê-la em tons de cinza, e exibir uma representação tridimensional da imagem utilizando a biblioteca Mayavi. 
 No final, a imagem é exibida em 3D, com cada pixel representado por um ponto tridimensional cuja cor e posição são determinadas pela intensidade do pixel na imagem original.
 
-## Rodando prjeto
+## Rodando projeto
 
 Clone o projeto
 
